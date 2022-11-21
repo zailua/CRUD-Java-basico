@@ -2,7 +2,7 @@
 
 
 ## English
-Basic Crud in console without persistance in database.
+Basic Crud in console without database persistance.
 
 ## Portuguese
 Crud básico via console sem persistência de dados.
